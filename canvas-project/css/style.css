@@ -1,0 +1,399 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#logo a,
+.top-search-form input,
+.entry-link,
+.entry.entry-date-section span,
+.button.button-desc,
+.fbox-content h3,
+.tab-nav-lg li a,
+.counter,
+label,
+.widget-filter-links li a,
+.nav-tree li a,
+.wedding-head,
+.font-primary {
+    font-family: 'Zilla Slab', serif !important;
+}
+
+.p1,
+.items, .question {
+    font-family: 'Zilla Slab', serif !important;
+}
+
+.navbar-nav
+{
+    z-index: 5;
+}
+
+.question{
+    font-size: 50px;
+}
+
+.choose-us {
+    padding-top: 150px;
+}
+
+.con1, .panel{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+@media (min-width: 1200px) {
+    .hero-image {
+        width: 400%;
+        padding-right: 80px;
+    }
+}
+
+.icon{
+    font-size: 70px;
+}
+
+.text1 {
+    padding-top: 90px;
+}
+
+
+.hero-image {
+    position: relative;
+    margin-left: auto;
+    width: 100%;
+    height: auto;
+    margin-top: 173px;
+}
+
+.why-choose,
+.first-nav {
+    background-color: #ebf1f0;
+}
+
+.first-nav {
+    background-color: #ebf1f0;
+    font-family: sans-serif;
+    padding: 16px 0px;
+}
+
+.footer-second {
+    background-color: #ebf1f0;
+    padding: 20px 0px;
+    font-style: italic;
+}
+
+.lorem1{
+    background-color: #ebf1f0;
+    padding-top: 130px;
+    padding-bottom: 130px;
+}
+
+.h4 {
+    text-decoration: none;
+}
+
+.showroom{
+    font-size: 50px;
+}
+
+.h2 {
+    padding: 60px 0px;
+    margin: 0px 0px 60px;
+}
+
+.shop-by {
+    margin-bottom: 3rem !important;
+    margin-top: 5rem !important;
+}
+
+.category, .arrivals{
+    font-size: 55px;
+}
+
+.new,
+.element {
+    background-color: #F3F3ED;
+    margin: 20px 0px 0px;
+    padding: 100px 0px;
+}
+
+.svg-underline,
+.svg-underline span {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+}
+
+.svg-underline::before {
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 13px;
+    background-image: url(http://themes.semicolonweb.com/html/canvas/demos/furniture/images/underline.svg);
+    background-size: 100% 13px;
+    background-position: bottom center;
+    opacity: 0.7;
+}
+
+.svg-underline.svg-underline-animated::after {
+    width: 0;
+}
+
+.button.button-border {
+    border: 2px solid #444;
+    background-color: transparent;
+    color: #333;
+    font-weight: 700;
+    text-shadow: none;
+}
+
+.hover:hover {
+    background-color: #2d4c49;
+    color: #ebf1f0;
+}
+
+.hover1:hover {
+    background-color: #2d4c49;
+    color: #fdf3e7;
+}
+
+.hover2:hover {
+    background-color: #2d4c49;
+    color: #fdf3e7;
+}
+
+.hover3:hover {
+    background-color: white;
+    color: black;
+}
+
+.banana:hover{
+    background-color: #ebf1f0;
+
+}
+
+.dog{
+    width: 914px;
+    height: 600px;
+}
+
+.city{
+    background-color: #2d4c49;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    padding-left: 100px;
+}
+
+.map1{
+    width: 1000px;
+    height: 920px;
+}
+
+.links{
+    background-color: #fff7de;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+}
+
+.dog1{
+    height: 600px;
+    width: 927px;
+}
+
+.heroImage{
+    height: 1300px;
+    width: 1840px;
+    padding-left: none;
+    padding-right: none;
+    margin-right: none;
+}
+
+.centered {
+    position: absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+.back {
+    position: relative;
+    text-align: center;
+    color: grey;
+  }
+
+  .back1 {
+    position: relative;
+    text-align: center;
+    color: #ebf1f0;
+  }
+
+  .centered1 {
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+    color: #2d4c49;
+    font-family: 'Zilla Slab', serif !important;
+}
+
+.social-links {
+    padding: 80px 80px 80px;
+}
+
+.headerSec{
+    padding-top: 180px;
+    padding-bottom: 50px;
+}
+
+.para1{
+    padding-right: 150px;
+    padding-left: 150px;
+}
+
+.button.button-small {
+    padding: 7px 17px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.head {
+    background-color: #2d4c49;
+    height: 700px;
+}
+
+.grid-2 {
+    background-color: #2d4c49;
+}
+
+.image {
+    max-width: 100%;
+    vertical-align: middle;
+}
+
+.shipping {
+    background-color: #fdf3e7;
+}
+
+.image-grid {
+    height: 280px;
+    width: 297px;
+}
+
+.butt {
+    border: solid 2px white;
+    background-color: white;
+}
+
+#logo {
+    width: 100px;
+    justify-content: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.search {
+    padding-left: 300px;
+    font-size: 1.3rem;
+}
+
+.shop,
+.shop:hover {
+    text-decoration: none;
+    color: #000;
+    border: solid 3px white;
+    background: white;
+    font-size: 1.5rem;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.buton {
+    color: #000;
+    border: solid 1px #f0f0f0;
+    background: white;
+}
+
+.discover {
+    color: #000;
+    border: solid 1px #f0f0f0;
+    background: white;
+}
+
+.banana {
+    border: solid 1px #f0f0f0;
+    background-color: #193532;
+    color: white;
+    font-size: 20px;
+}
+
+.accordion {
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    background-color: #ebf1f0;
+    border-bottom: 2px solid #193532 !important;
+  }
+
+  .accordion:before {
+    content: '\02795'; 
+    font-size: 13px;
+    float: right;
+    margin-left: 5px;
+  }
+  
+
+  .panel {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+  display: none;
+  font-size: 18px;
+}
+
+@media all and (min-width: 992px) {
+    .dropdown-menu li {
+        position: relative;
+    }
+    .nav-item .submenu {
+        display: none;
+        position: absolute;
+        left: 100%;
+        top: -7px;
+    }
+    .nav-item .submenu-left {
+        right: 100%;
+        left: auto;
+    }
+    .dropdown-menu>li:hover {
+        background-color: #f1f1f1
+    }
+    .dropdown-menu>li:hover>.submenu {
+        display: block;
+    }
+}
+
+
+/* ============ desktop view .end// ============ */
+
+
+/* ============ small devices ============ */
+
+@media (max-width: 991px) {
+    .dropdown-menu .dropdown-menu {
+        margin-left: 0.7rem;
+        margin-right: 0.7rem;
+        margin-bottom: .5rem;
+    }
+}
